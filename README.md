@@ -1,4 +1,3 @@
-bump
 # RvTK-Releases
 
 🚧 **Currently under active development**
