@@ -2,7 +2,9 @@
 
 🚧 **Currently under active development**
 
-# **RvTK — Revit Toolkit**
+# **RvTK**
+
+### BIM Management & Productivity Toolkit for Autodesk Revit
 
 A C# Autodesk Revit add-in focused on BIM management, quality assurance, and productivity. Built by BIM Managers for BIM Managers.
 
