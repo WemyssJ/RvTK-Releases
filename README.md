@@ -141,7 +141,7 @@ If there is a specific tool, workflow improvement, or feature that would help yo
 
 During the development phase, RvTK will remain free to use.
 
-RvTK will not suddenly become a paid product without prior notice. If the project transitions to a paid version in the future, users will be informed in advance.
+RvTK will not suddenly become a paid product without prior notice. When the project transitions to a paid version in the future, users will be informed in advance.
 
 Any future pricing will aim to be realistic, fair, and affordable, ensuring RvTK remains accessible to BIM professionals and teams while supporting continued development.
 
