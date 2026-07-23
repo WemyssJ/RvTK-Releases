@@ -26,7 +26,7 @@ RvTK is developed to support:
 * Autodesk Revit 2024
 * Autodesk Revit 2025
 * Autodesk Revit 2026
-* Autodesk Revit 2027 (Coming Soon)
+* Autodesk Revit 2027 (avaliable, but minimal testing carried out)
 
 ---
 
