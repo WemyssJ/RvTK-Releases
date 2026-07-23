@@ -60,7 +60,7 @@ The goal is to create a single toolkit that helps Revit users spend less time on
 
 ## Screenshots
 
-![RvTK Command Centre](images/RvTK-Ribbon-Snapshot2.png)
+![RvTK Command Centre](images/RvTK-Ribbon-Snapshot.png)
 
 ---
 
