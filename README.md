@@ -4,13 +4,6 @@
 
 A C# Autodesk Revit add-in focused on BIM management, quality assurance, and productivity. Built by BIM Managers for BIM Managers.
 
-
----
-
-![RvTK Command Centre](images/toolbar-snapshot.png)
-
----
-
 ## Overview
 
 RvTK brings together the tools and workflows that BIM professionals use every day, helping reduce repetitive tasks, improve consistency, and make working in Revit more efficient.
@@ -26,6 +19,10 @@ Built from real project experience, RvTK focuses on practical solutions for:
 The goal is to create a single toolkit that helps Revit users spend less time on repetitive processes and more time delivering projects.
 
 🚧 **Currently under active development**
+
+---
+
+![RvTK Command Centre](images/toolbar-snapshot.png)
 
 ---
 
