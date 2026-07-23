@@ -1,12 +1,14 @@
-🚧 **Currently under active development**
-
 # RvTK-Releases
 
-**RvTK — Revit Toolkit**
+🚧 **Currently under active development**
+
+# **RvTK — Revit Toolkit**
 
 A C# Autodesk Revit add-in focused on BIM management, quality assurance, and productivity. Built by BIM Managers for BIM Managers.
 
-> **Note**: RvTK is the codename for the project and is expected to undergo rebranding prior to commercial release.
+> **Note:** RvTK is the codename for the project and is expected to undergo rebranding prior to commercial release.
+
+---
 
 ## Overview
 
@@ -24,11 +26,37 @@ The goal is to create a single toolkit that helps Revit users spend less time on
 
 ---
 
+## Screenshots
+
 ![RvTK Command Centre](images/toolbar-snapshot.png)
 
 ---
 
-![RvTK Command Centre](images/dockable-snapshot.png)
+![RvTK Dockable Panel](images/dockable-snapshot.png)
+
+---
+
+## RvTK Command Centre
+
+The RvTK Command Centre provides a centralised location for users to access and organise their everyday Revit workflows.
+
+The customisable **Favourites Panel** allows users to create their own personalised workspace by adding:
+
+* RvTK tools
+* Native Revit commands
+* Commands from other Revit add-ins and plugins
+
+This provides a single access point for the tools users rely on most, reducing the need to navigate through multiple ribbon tabs and interfaces.
+
+---
+
+## BIM Manager Configuration
+
+RvTK includes comprehensive configuration options designed for BIM Managers to manage, customise, and distribute settings across their organisation.
+
+This allows companies to tailor RvTK to suit their own workflows, standards, and project requirements, ensuring teams have consistent access to the tools and settings they need.
+
+Configuration options can be managed centrally and distributed to users, helping improve consistency, support BIM standards, and simplify deployment across project teams.
 
 ---
 
@@ -39,4 +67,3 @@ Each installation of RvTK includes a **45-day trial period**, allowing users to 
 During the development phase, the trial period will be renewed with each new patch release, ensuring users testing the latest improvements have continued access.
 
 Feedback, bug reports, and feature suggestions are encouraged and can be submitted directly through the **inbuilt feedback button within RvTK**.
-
