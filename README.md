@@ -11,6 +11,8 @@ A C# Autodesk Revit add-in focused on BIM management, quality assurance, and pro
 > **Note:** RvTK is an independent third-party add-in for Autodesk Revit. It is not affiliated with, endorsed by, or sponsored by Autodesk.
 >
 > RvTK is the codename for the project and is expected to undergo rebranding prior to commercial release.
+>
+> **Development Disclaimer:** RvTK is currently under active development. While extensive testing and stress testing is carried out to improve stability and reliability, unexpected issues may still occur. Users should take appropriate precautions to protect their work, including maintaining regular backups and verifying results before relying on outputs for project delivery. Use RvTK at your own discretion.
 
 ---
 
