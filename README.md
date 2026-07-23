@@ -29,3 +29,5 @@ Each installation of RvTK includes a **45-day trial period**, allowing users to 
 During the development phase, the trial period will be renewed with each new patch release, ensuring users testing the latest improvements have continued access.
 
 Feedback, bug reports, and feature suggestions are encouraged and can be submitted directly through the **inbuilt feedback button within RvTK**.
+
+![RvTK Command Centre](images/toolbar snapshot.png)
