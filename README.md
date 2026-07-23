@@ -23,6 +23,7 @@ The goal is to create a single toolkit that helps Revit users spend less time on
 ---
 
 ![RvTK Command Centre](images/toolbar-snapshot.png)
+
 ---
 
 ## Trial Period & Feedback
