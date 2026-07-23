@@ -8,6 +8,9 @@
 
 A C# Autodesk Revit add-in focused on BIM management, quality assurance, and productivity. Built by BIM Managers for BIM Managers.
 
+> **Help Shape RvTK:**  
+> RvTK is currently under active development, and user feedback is a key part of shaping its future direction. If you have suggestions, feature requests, or workflows that could be improved, please share your feedback through the inbuilt feedback button or GitHub discussions.
+
 > **Note:** RvTK is an independent third-party add-in for Autodesk Revit. It is not affiliated with, endorsed by, or sponsored by Autodesk.
 >
 > RvTK is the codename for the project and is expected to undergo rebranding prior to commercial release.
