@@ -6,7 +6,9 @@
 
 A C# Autodesk Revit add-in focused on BIM management, quality assurance, and productivity. Built by BIM Managers for BIM Managers.
 
-> **Note:** RvTK is the codename for the project and is expected to undergo rebranding prior to commercial release.
+> **Note:** RvTK is an independent third-party add-in for Autodesk Revit. It is not affiliated with, endorsed by, or sponsored by Autodesk.
+>
+> RvTK is the codename for the project and is expected to undergo rebranding prior to commercial release.
 
 ---
 
@@ -69,6 +71,52 @@ RvTK includes comprehensive configuration options designed for BIM Managers to m
 This allows companies to tailor RvTK to suit their own workflows, standards, and project requirements, ensuring teams have consistent access to the tools and settings they need.
 
 Configuration options can be managed centrally and distributed to users, helping improve consistency, support BIM standards, and simplify deployment across project teams.
+
+---
+
+## Installation & Updates
+
+RvTK is designed to be simple to install and update.
+
+### Installation
+
+1. Download the latest RvTK release package.
+2. Extract the downloaded ZIP file.
+3. Ensure Autodesk Revit is closed.
+4. Run the RvTK installer (`.exe`).
+5. Open Revit and RvTK will be available.
+
+No additional configuration is required for a standard installation.
+
+### Updating RvTK
+
+To update to the latest version:
+
+1. Download the latest RvTK release package.
+2. Close Autodesk Revit.
+3. Extract the new ZIP file.
+4. Run the updated RvTK installer (`.exe`).
+
+The latest version will replace the previous installation while maintaining existing configuration settings.
+
+---
+
+## Enterprise Deployment
+
+RvTK includes built-in tools to support organisation-wide deployment and configuration management.
+
+BIM Managers can customise RvTK Settings to suit their organisation's workflows, standards, and requirements, then export the configuration package for distribution across other machines.
+
+### Deployment Workflow
+
+1. Configure RvTK Settings on the designated BIM Manager machine.
+2. Export the RvTK configuration package.
+3. Distribute the configuration package to the required users or machines.
+4. Import the configuration package on each machine.
+
+This allows organisations to maintain consistent RvTK settings across teams, helping standardise workflows, improve productivity, and support company BIM standards.
+
+Further deployment options and management features will continue to be developed.
 
 ---
 
